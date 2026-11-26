@@ -9,4 +9,4 @@ I bridge quantum computing and life sciences through scientific software, quantu
 
 Project guides distinguish measured results, implementation evidence and limitations.
 
-[Scientific portfolio](https://senay-kahsay-scientific-portfolio.miniaturebloom2.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/senay-kahsay)
+[Scientific portfolio](https://sennaiai.github.io) · [LinkedIn](https://www.linkedin.com/in/senay-kahsay)
