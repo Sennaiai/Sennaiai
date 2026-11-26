@@ -5,7 +5,7 @@ Master of Quantum Computing graduate, University of Calgary, with a background i
 I bridge quantum computing and life sciences through scientific software, quantum chemistry, molecular learning and computational biology.
 
 - [Quantum computing](https://github.com/Sennaiai/Quantum-Computing): molecular electronic structure, ADMET, Fourier arithmetic, QUBO/QAOA and quantum reservoir benchmarks.
-- [Computational biology](https://github.com/Sennaiai/Computational-Biology): a modular bioinformatics workflow for genomic quality control and reference-population assignment.
+- [Computational biology](https://github.com/Sennaiai/Computational-Biology): computational methods and scientific software for biological systems, including bioinformatics.
 
 Project guides distinguish measured results, implementation evidence and limitations.
 
