@@ -6,6 +6,7 @@ I bridge quantum computing and life sciences through scientific software, quantu
 
 - [Quantum computing](https://github.com/Sennaiai/Quantum-Computing): molecular electronic structure, ADMET, Fourier arithmetic, QUBO/QAOA and quantum reservoir benchmarks.
 - [Computational biology](https://github.com/Sennaiai/Computational-Biology): computational methods and scientific software for biological systems, including bioinformatics.
+- [Classical optimization and learning](https://github.com/Sennaiai/Classical-Optimization-and-Learning): multiobjective optimization, Monte Carlo estimation and reusable forecasting and molecular-classification models.
 
 Project guides distinguish measured results, implementation evidence and limitations.
 
