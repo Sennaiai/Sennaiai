@@ -1,12 +1,12 @@
-## 🌐 Research & Technical Portfolio
+# Senay Kahsay
 
-Welcome! This page links to my independent project areas:
+MQuaC, University of Calgary. Background in molecular biology and philosophy.
 
-| Domain                          | Repository                                                           | Focus
-|---------------------------------|----------------------------------------|-----------------------------|
-| 🧬 **Quantum Computing**        | [Quantum](https://github.com/Sennaiai/Quantum)                    |Quantum simulation, optimization, QML, variational algorithms
-| 🧫 **Computational Biology**    | [Computational-Biology](https://github.com/Sennaiai/Computational-Biology) | Molecular, cellular, and genetic system modeling 
-| 🤖 **Machine Learning / AI**    | [ML-AI](https://github.com/Sennaiai/ML-AI)                        |Neural modeling, optimization, QML, Hybrid Qauntum-Classical 
-| ✍️ **Blog **                    | [Blog](https://github.com/Sennaiai/Blog)                          | Reflections on research, philosophy, and future directions 
+I develop computational studies and scientific software, with explicit models, reference comparisons and reproducible methods.
 
-Each repository contains open projects and experiments within its theme.
+- [Quantum computing](https://github.com/Sennaiai/Quantum-Computing): molecular electronic structure, ADMET, Fourier arithmetic, QUBO/QAOA and quantum reservoir benchmarks.
+- [Computational biology](https://github.com/Sennaiai/Computational-Biology): a modular bioinformatics workflow for genomic quality control and reference-population assignment.
+
+Project guides distinguish measured results, implementation evidence and limitations.
+
+[LinkedIn](https://www.linkedin.com/in/senay-kahsay)
